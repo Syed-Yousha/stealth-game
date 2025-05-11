@@ -16,9 +16,10 @@ Players can move in four directions and create distractions. Guards switch betwe
 
 * **Team:**
 
+  * Yousha Mehdi   (22K-6007)
   * Daniyal Hussain (22K-5118)
   * Taha Farooqui  (22K-5020)
-  * Yousha Mehdi   (22K-6007)
+  
 
 * **Motivation:** Traditional stealth games often suffer from predictable AI patterns. By introducing simple machine-learning components, we aim to create a more engaging and replayable stealth experience without heavy compute or graphics.
 
@@ -37,3 +38,6 @@ Players can move in four directions and create distractions. Guards switch betwe
   5. Difficulty scaling and documentation
 
 This context anchors the project within your AI course, clarifies the technical stack, and outlines why and how the adaptive AI components will improve the stealth gameplay.
+
+![image](https://github.com/user-attachments/assets/8e60121a-669c-475d-9e28-702669c84890)
+
