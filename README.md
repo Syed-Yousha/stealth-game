@@ -37,7 +37,6 @@ Players can move in four directions and create distractions. Guards switch betwe
   4. Heuristic-based line-of-sight and noise reactions
   5. Difficulty scaling and documentation
 
-This context anchors the project within your AI course, clarifies the technical stack, and outlines why and how the adaptive AI components will improve the stealth gameplay.
 
 ![image](https://github.com/user-attachments/assets/8e60121a-669c-475d-9e28-702669c84890)
 
